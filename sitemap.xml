@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/11/17/firstblog/</loc>
+    <loc>https://caikai2013.github.io/about/index.html</loc>
+    
+    <lastmod>2019-11-17T03:51:43.186Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://caikai2013.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-11-17T02:25:43.673Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://caikai2013.github.io/404.html</loc>
+    
+    <lastmod>2019-11-17T02:25:43.645Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://caikai2013.github.io/2019/11/17/firstblog/</loc>
     
     <lastmod>2019-11-17T00:46:46.248Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/11/17/hello-world/</loc>
+    <loc>https://caikai2013.github.io/2019/11/17/hello-world/</loc>
     
     <lastmod>2019-11-16T16:19:45.729Z</lastmod>
     
